@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshrawat7&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='https://tg.i-c-a.su/json/programmerjokes/1?limit=100' style="height: 400px;"/>
+<img src='https://programmerhumor.io/wp-content/uploads/2023/07/programmerhumor-io-backend-memes-programming-memes-1ce54cca7276327.jpg' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=divyanshrawat7&icon=0&color=9)](https://visitcount.itsvg.in)
