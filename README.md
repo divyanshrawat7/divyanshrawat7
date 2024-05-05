@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on honing my skills in software development and cyber security.<br>👯 I’m looking to collaborate on interesting projects that challenge my problem-solving abilities.<br>🤝 I’m looking for help with mastering advanced algorithms and data structures.<br>🌱 I’m currently learning about web development.<br>💬 Ask me about my experience in software development and cyber security.<br>⚡ Fun fact: I love exploring new technologies and finding innovative solutions to complex problems.
+🔭 I’m currently working on honing my skills in Software Development and Cyber Security.<br>👯 I’m looking to collaborate on interesting projects that challenge my problem-solving abilities.<br>🤝 I’m looking for help with mastering advanced algorithms and data structures.<br>🌱 I’m currently learning about web development.<br>💬 Ask me about my experience in software development and cyber security.<br>⚡ Fun fact: I love exploring new technologies and finding innovative solutions to complex problems.
 
 
 ## 🌐 Socials:
