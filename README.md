@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=divyanshrawat7&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshrawat7&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme ( मेमे )
 <img src='https://programmerhumor.io/wp-content/uploads/2023/07/programmerhumor-io-backend-memes-programming-memes-1ce54cca7276327.jpg' style="height: 400px;"/>
 
 ---
