@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**divyanshrawat7/divyanshrawat7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on honing my skills in software development and cyber security.<br>👯 I’m looking to collaborate on interesting projects that challenge my problem-solving abilities.<br>🤝 I’m looking for help with mastering advanced algorithms and data structures.<br>🌱 I’m currently learning about web development.<br>💬 Ask me about my experience in software development and cyber security.<br>⚡ Fun fact: I love exploring new technologies and finding innovative solutions to complex problems.
 
@@ -25,5 +18,3 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=divyanshrawat7&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
