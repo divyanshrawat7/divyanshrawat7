@@ -4,7 +4,7 @@
 
 ### 🤖 ML Engineer | AI Engineer | Data Scientist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=MTech+AI+%40+IIT+Jodhpur;ML+Engineer+%7C+AI+Engineer;IEEE+Published+Researcher;Top+565+on+HackTheBox+Globally;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=MTech+AI+%40+IIT+Jodhpur;ML+Engineer+%7C+AI+Engineer;IEEE+Published+Researcher;Building+Intelligent+Systems;Deep+Learning+%7C+LLMs+%7C+GenAI" alt="Typing SVG" />
 
 <br/>
 
@@ -20,25 +20,18 @@
 
 ## 💫 About Me
 
-```python
-class DivyanshRawat:
-    def __init__(self):
-        self.name        = "Divyansh Rawat"
-        self.education   = "MTech Artificial Intelligence @ IIT Jodhpur"
-        self.location    = "Jodhpur, India 🇮🇳"
-        self.roles       = ["ML Engineer", "AI Engineer", "Data Scientist"]
-        self.interests   = ["Deep Learning", "Generative AI", "LLMs", "Computer Vision"]
-        self.publication = "IEEE Published Researcher 📄"
-        self.achievement = "Top 565 on HackTheBox Globally 🔐"
-        self.currently   = "Building scalable ML systems & exploring GenAI"
-        self.fun_fact    = "I debug at 2AM and call it productivity 🌙"
+<img align="right" alt="AI/ML GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+- 🎓 &nbsp;**MTech Artificial Intelligence** @ IIT Jodhpur *(2025 – Present)*
+- 💼 &nbsp;Targeting **ML Engineer | AI Engineer** roles
+- 🔬 &nbsp;**IEEE Published Researcher** in Recommendation Systems
+- 🧠 &nbsp;Passionate about **Deep Learning, LLMs, GenAI & Computer Vision**
+- 🚀 &nbsp;Currently building scalable ML systems & exploring Generative AI
+- 🏆 &nbsp;**GATE Qualified** | **4th Place** Devbhoomi Cyber Hackathon *(500+ teams)*
+- 📍 &nbsp;Based in **Jodhpur, India** 🇮🇳
+- ⚡ &nbsp;Fun fact: *I train models during the day and debug them at 2AM* 🌙
 
-me = DivyanshRawat()
-me.say_hi()
-```
+<br clear="right"/>
 
 ---
 
@@ -46,26 +39,14 @@ me.say_hi()
 
 <div align="center">
 
-| 🎓 | MTech AI @ **IIT Jodhpur** (2025 – Present) |
+| | Achievement |
 |---|---|
+| 🎓 | MTech AI @ **IIT Jodhpur** (2025 – Present) |
 | 📄 | **IEEE Published** — Movie Recommendation System (DOI: 10.1109/SMART59791.2023.10428182) |
 | 🎯 | **GATE Qualified** — Computer Science & Engineering |
-| 🔐 | **Top 565 Globally** on HackTheBox |
 | 🏅 | **4th Place** — Devbhoomi Cyber Hackathon (All India, 500+ teams) |
 | 🏆 | **Achiever's Award** — Graphic Era Hill University (2023) |
 | 🛡️ | **Co-Founder & Ex-President** — Cyber Security Club, GEHU |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Distributed Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=divyanshrawat7&repo=distributed-recommendation-system-spark-als&theme=tokyonight&hide_border=true)](https://github.com/divyanshrawat7/distributed-recommendation-system-spark-als)
-[![Time Series Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=divyanshrawat7&repo=Time-Series-Analysis-with-Non-Linear-Models-for-Energy-Consumption-Prediction&theme=tokyonight&hide_border=true)](https://github.com/divyanshrawat7/Time-Series-Analysis-with-Non-Linear-Models-for-Energy-Consumption-Prediction)
-[![Face Recognition Attendance](https://github-readme-stats.vercel.app/api/pin/?username=divyanshrawat7&repo=Face_Recognition_based_Attendance_System&theme=tokyonight&hide_border=true)](https://github.com/divyanshrawat7/Face_Recognition_based_Attendance_System)
 
 </div>
 
@@ -133,19 +114,6 @@ me.say_hi()
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshrawat7&theme=tokyo-night&hide_border=true" />
 
 </div>
-
----
-
-## 🔐 Cybersecurity
-
-> 🛡️ Former **President** of Cyber Security Club @ Graphic Era Hill University
->
-> 🎯 **Top 565 Globally** on HackTheBox — Penetration Testing & CTF Challenges
->
-> 🥇 **4th Place** — Devbhoomi Cyber Hackathon (All India, 500+ teams)
-
-![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
