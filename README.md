@@ -4,7 +4,7 @@
 
 ### 🤖 ML Engineer | AI Engineer | Data Scientist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=MTech+AI+%40+IIT+Jodhpur;ML+Engineer+%7C+AI+Engineer;IEEE+Published+Researcher;Building+Intelligent+Systems;Deep+Learning+%7C+LLMs+%7C+GenAI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=MTech+AI+%40+IIT+Jodhpur;IEEE+Published+Researcher;Deep+Learning+%7C+LLMs+%7C+GenAI;Building+Intelligent+Systems;Turning+Data+into+Intelligence" alt="Typing SVG" />
 
 <br/>
 
@@ -22,13 +22,14 @@
 
 <img align="right" alt="AI/ML GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 &nbsp;**MTech Artificial Intelligence** @ IIT Jodhpur *(2025 – Present)*
-- 💼 &nbsp;Targeting **ML Engineer | AI Engineer** roles
-- 🔬 &nbsp;**IEEE Published Researcher** in Recommendation Systems
-- 🧠 &nbsp;Passionate about **Deep Learning, LLMs, GenAI & Computer Vision**
-- 🚀 &nbsp;Currently building scalable ML systems & exploring Generative AI
-- 🏆 &nbsp;**GATE Qualified** | **4th Place** Devbhoomi Cyber Hackathon *(500+ teams)*
-- 📍 &nbsp;Based in **Jodhpur, India** 🇮🇳
+- 🎓 &nbsp;**MTech Artificial Intelligence** @ **IIT Jodhpur**
+- 🔬 &nbsp;**IEEE Published Researcher** — Recommendation Systems using NLP
+- 🧠 &nbsp;Deeply passionate about **Deep Learning, LLMs, GenAI & Computer Vision**
+- 💻 &nbsp;1+ year of industry experience in **Python, ML Engineering & Data Pipelines**
+- 🚀 &nbsp;Currently building scalable ML systems & diving deep into **Generative AI**
+- 📊 &nbsp;Experienced with **end-to-end ML workflows** — from raw data to deployed models
+- 🏆 &nbsp;University **Achiever's Award Recipient** | **All-India Hackathon** finalist
+- 🌱 &nbsp;Always learning — currently exploring **LangChain, RAG pipelines & LLM fine-tuning**
 - ⚡ &nbsp;Fun fact: *I train models during the day and debug them at 2AM* 🌙
 
 <br clear="right"/>
@@ -43,9 +44,8 @@
 |---|---|
 | 🎓 | MTech AI @ **IIT Jodhpur** (2025 – Present) |
 | 📄 | **IEEE Published** — Movie Recommendation System (DOI: 10.1109/SMART59791.2023.10428182) |
-| 🎯 | **GATE Qualified** — Computer Science & Engineering |
-| 🏅 | **4th Place** — Devbhoomi Cyber Hackathon (All India, 500+ teams) |
 | 🏆 | **Achiever's Award** — Graphic Era Hill University (2023) |
+| 🏅 | **All-India Hackathon Finalist** — Top 4 among 500+ teams |
 | 🛡️ | **Co-Founder & Ex-President** — Cyber Security Club, GEHU |
 
 </div>
@@ -60,27 +60,35 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🤖 AI / ML Frameworks
+### 🤖 AI / ML / GenAI
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%2300897B.svg?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23007396.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📊 Data & Big Data
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Web & Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -91,6 +99,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
