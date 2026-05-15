@@ -140,7 +140,7 @@
 ## 😂 Dev Meme of the Day
 
 <div align="center">
-<img src='https://i.programmerhumor.io/2025/03/2a155bca802a0e5bb849a3eb9055e7889abff75f4c94e164f3ba7fc39ebeb583.jpeg' style="height: 500px; border-radius: 15px;"/>
+<img src='https://i.programmerhumor.io/2025/03/2a155bca802a0e5bb849a3eb9055e7889abff75f4c94e164f3ba7fc39ebeb583.jpeg' style="height: 600px; border-radius: 17px;"/>
 </div>
 
 ---
