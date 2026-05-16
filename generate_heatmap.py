@@ -47,11 +47,11 @@ def fetch_contributions():
 
 # ── Color mapping (GitHub-style green) ──────────────────────────────────────
 def color_for(count):
-    if count == 0:  return (235, 237, 240)   # empty grey
-    if count <= 2:  return (155, 233, 168)   # light green
-    if count <= 5:  return (64,  196, 99)    # medium green
-    if count <= 9:  return (48,  161, 78)    # dark green
-    return              (33,  110, 57)       # darkest green
+    if count == 0:  return (22, 27, 34)      # dark background (GitHub dark style)
+    if count <= 2:  return (14, 68, 41)      # darkest low green
+    if count <= 5:  return (0,  109, 50)     # medium dark green
+    if count <= 9:  return (38, 166, 65)     # bright green
+    return              (57, 211, 83)        # brightest green for max commits
 
 # ── Build calendar per month ─────────────────────────────────────────────────
 def days_in_month(year, month):
