@@ -119,9 +119,9 @@
 </div>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshrawat7&theme=tokyo-night&hide_border=true" />
-![GitHub Contribution Heatmap](https://raw.githubusercontent.com/divyanshrawat7/divyanshrawat7/main/heatmap.png)
-</div>
 
+</div>
+![GitHub Contribution Heatmap](https://raw.githubusercontent.com/divyanshrawat7/divyanshrawat7/main/heatmap.png)
 ---
 
 ## 📄 Publication
