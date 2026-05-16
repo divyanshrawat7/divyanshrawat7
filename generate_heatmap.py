@@ -89,7 +89,7 @@ def generate_heatmap(contrib_map):
     total_width = PADDING * 2 + sum(month_width(y, m) for y, m in months) + MONTH_GAP * (len(months) - 1)
     total_height = PADDING * 2 + LABEL_H + COLS * (BOX + GAP) - GAP + 30  # +30 for legend
 
-    img  = Image.new("RGB", (total_width, total_height), (255, 255, 255))
+    img  = Image.new("RGB", (total_width, total_height), (13, 17, 23))
     draw = ImageDraw.Draw(img)
 
     try:
@@ -101,7 +101,7 @@ def generate_heatmap(contrib_map):
 
     for year, month in months:
         # Month label
-        draw.text((x, PADDING), f"{MONTHS[month-1]} {year}", fill=(100, 100, 100), font=font)
+        draw.text((x, PADDING), f"{MONTHS[month-1]} {year}", fill=(139, 148, 158), font=font)
 
         d         = days_in_month(year, month)
         first_dow = datetime(year, month, 1).weekday()
