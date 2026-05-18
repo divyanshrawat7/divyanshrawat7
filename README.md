@@ -10,8 +10,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://divyanshrawat7.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshrawat7)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanshrawat7)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/divyansh_rawat_7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshrawat4@gmail.com)
 
 </div>
@@ -22,15 +20,15 @@
 
 <img align="right" alt="AI/ML GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- **MTech Artificial Intelligence** @ **IIT Jodhpur**
-- **IEEE Published Researcher** — Recommendation Systems using NLP
-- Deeply passionate about **Deep Learning, LLMs, GenAI & Computer Vision**
-- 1+ year of industry experience in **Python, ML Engineering & Data Pipelines**
-- Currently building scalable ML systems & diving deep into **Generative AI**
-- Experienced with **end-to-end ML workflows** — from raw data to deployed models
-- University **Achiever's Award Recipient** | **All-India Hackathon** finalist
-- Always learning — currently exploring **LangChain, RAG pipelines & LLM fine-tuning**
-- Fun fact: *I train models during the day and debug them at 2AM*
+- **MTech Artificial Intelligence** @ **IIT Jodhpur** — currently pursuing research in **AI & Autonomous Systems**
+- **IEEE Published Researcher** — built a **Recommendation System** using **NLP, TF-IDF & Bag of Words**
+- **1+ year of industry experience** as a **Python Developer** working on **ML pipelines & data engineering**
+- Hands-on with **end-to-end ML workflows** — data ingestion, feature engineering, model training, and deployment
+- Deeply interested in **Large Language Models (LLMs), Generative AI, RAG pipelines & LLM fine-tuning**
+- Worked on **Distributed Systems** (Apache Spark), **Computer Vision** (OpenCV, CNNs), and **Time Series Forecasting**
+- **All-India Hackathon Finalist** — Top 4 among 500+ teams | **University Achiever's Award Recipient (2023)**
+- Currently exploring **LangChain, HuggingFace Transformers & scalable ML system design**
+- *Trains models during the day, debugs them at 2AM*
 
 <br clear="right"/>
 
@@ -42,11 +40,11 @@
 
 | | Achievement |
 |---|---|
-| | MTech AI @ **IIT Jodhpur** (2025 – Present) |
-| | **IEEE Published** — Movie Recommendation System (DOI: 10.1109/SMART59791.2023.10428182) |
-| | **Achiever's Award** — Graphic Era Hill University (2023) |
-| | **All-India Hackathon Finalist** — Top 4 among 500+ teams |
-| | **Co-Founder & Ex-President** — Cyber Security Club, GEHU |
+| Education | MTech AI @ **IIT Jodhpur** (2025 – Present) |
+| Research | **IEEE Published** — Movie Recommendation System (DOI: 10.1109/SMART59791.2023.10428182) |
+| Award | **Achiever's Award** — Graphic Era Hill University (2023) |
+| Hackathon | **All-India Hackathon Finalist** — Top 4 among 500+ teams |
+| Leadership | **Co-Founder & Ex-President** — Cyber Security Club, GEHU |
 
 </div>
 
