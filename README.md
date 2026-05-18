@@ -105,15 +105,15 @@
 
 ## GitHub Stats
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshrawat7&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshrawat7&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshrawat7&theme=dracula" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshrawat7&theme=dracula" height="180"/>
 </div>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshrawat7&theme=tokyonight&utcOffset=5.5"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshrawat7&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshrawat7&theme=dracula&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshrawat7&theme=dracula"/>
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=divyanshrawat7&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=divyanshrawat7&theme=dracula&hide_border=true"/>
 </div>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshrawat7&theme=tokyo-night&hide_border=true"/>
