@@ -28,7 +28,8 @@
 - Worked on **Distributed Systems** (Apache Spark), **Computer Vision** (OpenCV, CNNs), and **Time Series Forecasting**
 - **All-India Hackathon Finalist** — Top 4 among 500+ teams | **University Achiever's Award Recipient (2023)**
 - Currently exploring **LangChain, HuggingFace Transformers & scalable ML system design**
-- *Trains models during the day, debugs them at 2AM*
+
+> **"Trains models during the day, debugs them at 2AM."**
 
 <br clear="right"/>
 
@@ -105,7 +106,7 @@
 ## GitHub Stats
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshrawat7&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshrawat7&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshrawat7&theme=nord_dark" height="180"/>
 </div>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshrawat7&theme=tokyonight&utcOffset=5.5"/>
