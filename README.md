@@ -113,7 +113,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshrawat7&theme=dracula"/>
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=divyanshrawat7&theme=dracula&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=divyanshrawat7&theme=tokyonight&hide_border=true"/>
 </div>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshrawat7&theme=tokyo-night&hide_border=true"/>
