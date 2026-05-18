@@ -104,16 +104,17 @@
 ---
 
 ## GitHub Stats
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshrawat7&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshrawat7&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshrawat7&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshrawat7&theme=tokyonight" height="180"/>
 </div>
-
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshrawat7&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshrawat7&theme=tokyonight"/>
+</div>
 <div align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=divyanshrawat7&theme=tokyonight&hide_border=true"/>
 </div>
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshrawat7&theme=tokyo-night&hide_border=true"/>
 <img src="https://raw.githubusercontent.com/divyanshrawat7/divyanshrawat7/main/heatmap.png" width="100%"/>
