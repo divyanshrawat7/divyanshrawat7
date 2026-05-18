@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Divyansh Rawat
+# Hi, I'm Divyansh Rawat
 
-### 🤖 ML Engineer | AI Engineer | Data Scientist
+### ML Engineer | AI Engineer | Data Scientist
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=MTech+AI+%40+IIT+Jodhpur;IEEE+Published+Researcher;Deep+Learning+%7C+LLMs+%7C+GenAI;Building+Intelligent+Systems;Turning+Data+into+Intelligence" alt="Typing SVG" />
 
@@ -18,43 +18,43 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 <img align="right" alt="AI/ML GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 &nbsp;**MTech Artificial Intelligence** @ **IIT Jodhpur**
-- 🔬 &nbsp;**IEEE Published Researcher** — Recommendation Systems using NLP
-- 🧠 &nbsp;Deeply passionate about **Deep Learning, LLMs, GenAI & Computer Vision**
-- 💻 &nbsp;1+ year of industry experience in **Python, ML Engineering & Data Pipelines**
-- 🚀 &nbsp;Currently building scalable ML systems & diving deep into **Generative AI**
-- 📊 &nbsp;Experienced with **end-to-end ML workflows** — from raw data to deployed models
-- 🏆 &nbsp;University **Achiever's Award Recipient** | **All-India Hackathon** finalist
-- 🌱 &nbsp;Always learning — currently exploring **LangChain, RAG pipelines & LLM fine-tuning**
-- ⚡ &nbsp;Fun fact: *I train models during the day and debug them at 2AM* 🌙
+- **MTech Artificial Intelligence** @ **IIT Jodhpur**
+- **IEEE Published Researcher** — Recommendation Systems using NLP
+- Deeply passionate about **Deep Learning, LLMs, GenAI & Computer Vision**
+- 1+ year of industry experience in **Python, ML Engineering & Data Pipelines**
+- Currently building scalable ML systems & diving deep into **Generative AI**
+- Experienced with **end-to-end ML workflows** — from raw data to deployed models
+- University **Achiever's Award Recipient** | **All-India Hackathon** finalist
+- Always learning — currently exploring **LangChain, RAG pipelines & LLM fine-tuning**
+- Fun fact: *I train models during the day and debug them at 2AM*
 
 <br clear="right"/>
 
 ---
 
-## 🏆 Highlights & Achievements
+## Highlights & Achievements
 
 <div align="center">
 
 | | Achievement |
 |---|---|
-| 🎓 | MTech AI @ **IIT Jodhpur** (2025 – Present) |
-| 📄 | **IEEE Published** — Movie Recommendation System (DOI: 10.1109/SMART59791.2023.10428182) |
-| 🏆 | **Achiever's Award** — Graphic Era Hill University (2023) |
-| 🏅 | **All-India Hackathon Finalist** — Top 4 among 500+ teams |
-| 🛡️ | **Co-Founder & Ex-President** — Cyber Security Club, GEHU |
+| | MTech AI @ **IIT Jodhpur** (2025 – Present) |
+| | **IEEE Published** — Movie Recommendation System (DOI: 10.1109/SMART59791.2023.10428182) |
+| | **Achiever's Award** — Graphic Era Hill University (2023) |
+| | **All-India Hackathon Finalist** — Top 4 among 500+ teams |
+| | **Co-Founder & Ex-President** — Cyber Security Club, GEHU |
 
 </div>
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -62,7 +62,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🤖 AI / ML / GenAI
+### AI / ML / GenAI
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -73,7 +73,7 @@
 ![NLTK](https://img.shields.io/badge/NLTK-%2300897B.svg?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23007396.svg?style=for-the-badge&logo=python&logoColor=white)
 
-### 📊 Data & Big Data
+### Data & Big Data
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
@@ -83,7 +83,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Web & Deployment
+### Web & Deployment
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -92,7 +92,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -104,7 +104,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshrawat7&theme=tokyonight" height="180"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshrawat7&theme=tokyonight" height="180"/>
@@ -121,17 +121,19 @@
 <img src="https://raw.githubusercontent.com/divyanshrawat7/divyanshrawat7/main/heatmap.png" width="100%"/>
 </div>
 
-## 📄 Publication
+---
+
+## Publication
 
 > **Movie Recommendation System Using TF-IDF Vectorizer and Bag of Words**
 >
-> 📰 Published in **IEEE Xplore** | SMART 2023 Conference
+> Published in **IEEE Xplore** | SMART 2023 Conference
 >
-> 🔗 DOI: [10.1109/SMART59791.2023.10428182](https://doi.org/10.1109/SMART59791.2023.10428182)
+> DOI: [10.1109/SMART59791.2023.10428182](https://doi.org/10.1109/SMART59791.2023.10428182)
 
 ---
 
-## 😂 Dev Meme of the Day
+## Dev Meme
 
 <div align="center">
 <img src='https://i.programmerhumor.io/2025/03/2a155bca802a0e5bb849a3eb9055e7889abff75f4c94e164f3ba7fc39ebeb583.jpeg' style="height: 600px; border-radius: 17px;"/>
@@ -141,7 +143,7 @@
 
 <div align="center">
 
-### 💬 Let's Connect & Collaborate!
+### Let's Connect & Collaborate!
 
 *"The best way to predict the future is to build it."*
 
