@@ -106,7 +106,7 @@
 ## GitHub Stats
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshrawat7&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshrawat7&theme=nord_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshrawat7&theme=tokyonight" height="180"/>
 </div>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshrawat7&theme=tokyonight&utcOffset=5.5"/>
