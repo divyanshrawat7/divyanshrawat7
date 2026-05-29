@@ -29,7 +29,7 @@
 - **All-India Hackathon Finalist** — Top 4 among 500+ teams | **University Achiever's Award Recipient (2023)**
 - Currently exploring **LangChain, HuggingFace Transformers & scalable ML system design**
 
-> **"Trains models during the day, debugs them at 2AM."**
+> **"Train models during the day and debug them at 2AM."**
 
 <br clear="right"/>
 
